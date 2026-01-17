@@ -36,19 +36,19 @@
     {
       "name": "hacker-podcast-workflow",
       "binding": "HACKER_PODCAST_WORKFLOW",
-      "class_name": "HackerNewsWorkflow"
+      "class_name": "hacker-podcast"
     }
   ],
   "kv_namespaces": [
     {
       "binding": "HACKER_PODCAST_KV",
-      "id": "bfc65509c1634589a29b90f956ab0d1a"
+      "id": "673864c93b104baf93237dc8df5038d0"
     }
   ],
   "r2_buckets": [
     {
       "binding": "HACKER_PODCAST_R2",
-      "bucket_name": "hacker-podcast"
+      "bucket_name": "aifm"
     }
   ]
 }
